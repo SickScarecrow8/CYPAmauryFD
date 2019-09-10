@@ -1,0 +1,2 @@
+print("Probando tecnología b")
+
